@@ -1,1 +1,1 @@
-echo "自动编译"
+echo "auto compile"
